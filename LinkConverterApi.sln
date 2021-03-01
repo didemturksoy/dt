@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinkConverterApi", "LinkConverterApi\LinkConverterApi.csproj", "{8E5E7A2A-8B07-40C8-A89F-7BF9358E4B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkConverterApiTest", "LinkConverterApiTest\LinkConverterApiTest.csproj", "{44A29DB4-02C2-43A8-8CB3-041190842DBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E5E7A2A-8B07-40C8-A89F-7BF9358E4B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E5E7A2A-8B07-40C8-A89F-7BF9358E4B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E5E7A2A-8B07-40C8-A89F-7BF9358E4B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E5E7A2A-8B07-40C8-A89F-7BF9358E4B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A29DB4-02C2-43A8-8CB3-041190842DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A29DB4-02C2-43A8-8CB3-041190842DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A29DB4-02C2-43A8-8CB3-041190842DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A29DB4-02C2-43A8-8CB3-041190842DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3D6A647-A3FF-4DCB-A468-C260D5AA4969}
+	EndGlobalSection
+EndGlobal
